@@ -1,6 +1,4 @@
 [submodule "back-end"]
 	path = back-end
 	url = https://github.com/pehenobra2/PontoEletronicoBE
-[submodule "front-end"]
-	path = front-end
-	url = https://github.com/pehenobra2/PontoEletronicoFE
+
